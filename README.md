@@ -1,5 +1,5 @@
 ## Hi there 👋
-My name is Max Grezlik. I am a Fisheries Data Analyst with IBSS in support of NOAA Fisheries
+My name is Max Grezlik. I am a Fisheries Data Analyst with IBSS in support of NOAA Fisheries.
 I am interested in finding Ecosystem Based solutions to complex problems
 <!--
 **MGrezlik/MGrezlik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
